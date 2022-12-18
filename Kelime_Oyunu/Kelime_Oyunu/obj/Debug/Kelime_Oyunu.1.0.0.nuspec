@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Kelime_Oyunu</id>
+    <version>1.0.0</version>
+    <authors>Kelime_Oyunu</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework=".NETCoreApp3.1" />
+    </dependencies>
+    <frameworkReferences>
+      <group targetFramework=".NETCoreApp3.1">
+        <frameworkReference name="Microsoft.WindowsDesktop.App.WindowsForms" />
+      </group>
+    </frameworkReferences>
+  </metadata>
+  <files>
+    <file src="C:\Users\KAYA\Desktop\Kelime_Oyunu\Kelime_Oyunu\bin\Debug\netcoreapp3.1\Kelime_Oyunu.runtimeconfig.json" target="lib\netcoreapp3.1\Kelime_Oyunu.runtimeconfig.json" />
+    <file src="C:\Users\KAYA\Desktop\Kelime_Oyunu\Kelime_Oyunu\bin\Debug\netcoreapp3.1\Kelime_Oyunu.dll" target="lib\netcoreapp3.1\Kelime_Oyunu.dll" />
+  </files>
+</package>

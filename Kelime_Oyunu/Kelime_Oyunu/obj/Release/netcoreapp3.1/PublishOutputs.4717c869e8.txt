@@ -1,0 +1,5 @@
+C:\Users\KAYA\Desktop\Kelime_Oyunu.exe
+C:\Users\KAYA\Desktop\Kelime_Oyunu.dll
+C:\Users\KAYA\Desktop\Kelime_Oyunu.deps.json
+C:\Users\KAYA\Desktop\Kelime_Oyunu.runtimeconfig.json
+C:\Users\KAYA\Desktop\Kelime_Oyunu.pdb

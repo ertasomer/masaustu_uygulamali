@@ -1,0 +1,15 @@
+C:\Users\KAYA\Desktop\Kelime_Oyunu\Kelime_Oyunu\bin\Release\netcoreapp3.1\win-x64\Kelime_Oyunu.exe
+C:\Users\KAYA\Desktop\Kelime_Oyunu\Kelime_Oyunu\bin\Release\netcoreapp3.1\win-x64\Kelime_Oyunu.deps.json
+C:\Users\KAYA\Desktop\Kelime_Oyunu\Kelime_Oyunu\bin\Release\netcoreapp3.1\win-x64\Kelime_Oyunu.runtimeconfig.json
+C:\Users\KAYA\Desktop\Kelime_Oyunu\Kelime_Oyunu\bin\Release\netcoreapp3.1\win-x64\Kelime_Oyunu.runtimeconfig.dev.json
+C:\Users\KAYA\Desktop\Kelime_Oyunu\Kelime_Oyunu\bin\Release\netcoreapp3.1\win-x64\Kelime_Oyunu.dll
+C:\Users\KAYA\Desktop\Kelime_Oyunu\Kelime_Oyunu\bin\Release\netcoreapp3.1\win-x64\Kelime_Oyunu.pdb
+C:\Users\KAYA\Desktop\Kelime_Oyunu\Kelime_Oyunu\obj\Release\netcoreapp3.1\win-x64\Kelime_Oyunu.Form1.resources
+C:\Users\KAYA\Desktop\Kelime_Oyunu\Kelime_Oyunu\obj\Release\netcoreapp3.1\win-x64\Kelime_Oyunu.csproj.GenerateResource.cache
+C:\Users\KAYA\Desktop\Kelime_Oyunu\Kelime_Oyunu\obj\Release\netcoreapp3.1\win-x64\Kelime_Oyunu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KAYA\Desktop\Kelime_Oyunu\Kelime_Oyunu\obj\Release\netcoreapp3.1\win-x64\Kelime_Oyunu.AssemblyInfoInputs.cache
+C:\Users\KAYA\Desktop\Kelime_Oyunu\Kelime_Oyunu\obj\Release\netcoreapp3.1\win-x64\Kelime_Oyunu.AssemblyInfo.cs
+C:\Users\KAYA\Desktop\Kelime_Oyunu\Kelime_Oyunu\obj\Release\netcoreapp3.1\win-x64\Kelime_Oyunu.csproj.CoreCompileInputs.cache
+C:\Users\KAYA\Desktop\Kelime_Oyunu\Kelime_Oyunu\obj\Release\netcoreapp3.1\win-x64\Kelime_Oyunu.dll
+C:\Users\KAYA\Desktop\Kelime_Oyunu\Kelime_Oyunu\obj\Release\netcoreapp3.1\win-x64\Kelime_Oyunu.pdb
+C:\Users\KAYA\Desktop\Kelime_Oyunu\Kelime_Oyunu\obj\Release\netcoreapp3.1\win-x64\Kelime_Oyunu.genruntimeconfig.cache

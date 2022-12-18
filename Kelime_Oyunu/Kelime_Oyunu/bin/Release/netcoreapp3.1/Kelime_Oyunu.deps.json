@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Kelime_Oyunu/1.0.0": {
+        "runtime": {
+          "Kelime_Oyunu.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Kelime_Oyunu/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
